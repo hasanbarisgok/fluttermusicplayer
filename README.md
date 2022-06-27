@@ -1,16 +1,3 @@
-# musicplyr
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#FlutterMusicPlayer
+![software2](https://user-images.githubusercontent.com/70600067/175948517-40bca955-6dff-446d-a6ef-dd6774ab93dc.PNG)
+![software3](https://user-images.githubusercontent.com/70600067/175948539-1bf20d80-dbfd-43f2-8142-543b71eb6364.PNG)
